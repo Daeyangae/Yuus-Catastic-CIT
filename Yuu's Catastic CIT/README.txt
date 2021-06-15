@@ -2,3 +2,4 @@ This is a pack that has cat and frog chairs using CIT. It requires the use of op
 
 - When using this pack, please link to my tumblr (https://daeyangae.tumblr.com/) so that others may check it out :)
 - You may not redistribute this pack or the models/files in it, please just link to my tumblr or the post 
+- idk theres already a readme, remember to delete it when you stick it in the resource pack folder cus lol
