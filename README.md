@@ -1,7 +1,7 @@
 # Yuus-Catastic-CIT
 
 Github continously clowns on me.
-<br>This is the official download! Please only download it from here, I can't guarantee any other sites.
+<br>This is the official download! THIS IS NOW ON PLANET MINECRAFT, LMAO
 <br>**When you download from github, you will have to unzip the folder, go into it, and then take out the actual CIT pack, you will know cus it doesn't have any dashes in its name.**
 
 ## RULES
